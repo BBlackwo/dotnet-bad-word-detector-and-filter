@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetBadWordDetector", "DotnetBadWordDetector\DotnetBadWordDetector.csproj", "{329AC349-D616-33D2-9E46-5A46559840E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetBadWordDetectorTests", "DotnetBadWordDetectorTests\DotnetBadWordDetectorTests.csproj", "{7B98A79F-BF5D-A26D-C99B-183493DDEBCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{329AC349-D616-33D2-9E46-5A46559840E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329AC349-D616-33D2-9E46-5A46559840E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329AC349-D616-33D2-9E46-5A46559840E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329AC349-D616-33D2-9E46-5A46559840E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B98A79F-BF5D-A26D-C99B-183493DDEBCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B98A79F-BF5D-A26D-C99B-183493DDEBCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B98A79F-BF5D-A26D-C99B-183493DDEBCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B98A79F-BF5D-A26D-C99B-183493DDEBCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD85B823-D2E4-4A1B-9ECB-A56F7E79AF5C}
+	EndGlobalSection
+EndGlobal

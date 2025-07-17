@@ -105,3 +105,10 @@ Definitions of "profanity" can vary by culture. This library uses human-labeled 
 ## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request with suggestions for new features, languages, or improvements.
+
+### Run tests
+
+```bash
+cd src
+dotnet test
+```
